@@ -15,6 +15,6 @@ cmake --build .
 ```
 
 ### Reference
-[crcrpar/minituna.cpp](https://github.com/crcrpar/minituna.cpp)
-[ごく簡単なcmakeの使い方](https://qiita.com/termoshtt/items/539541c180dfc40a1189)
-[CMakeの使い方（その１）](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
+- [crcrpar/minituna.cpp](https://github.com/crcrpar/minituna.cpp)
+- [ごく簡単なcmakeの使い方](https://qiita.com/termoshtt/items/539541c180dfc40a1189)
+- [CMakeの使い方（その１）](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
